@@ -33,7 +33,7 @@
 
 ## Установка
 
-Скачай последнюю версию APK из раздела [Releases](releases).
+Скачай последнюю версию APK из раздела [Releases]((https://github.com/lordsamper9-cyber/Lavka_helper/releases/tag/LavkaHelper)).
 
 ## Планы развития
 
